@@ -1,0 +1,13 @@
+.box {
+  border: 1px solid black;
+  width: 500px;
+}
+
+.item-img {
+  width: 400px;
+}
+
+.main {
+  display: flex; /* 세로정렬 -> 가로정렬 */
+  justify-content: center; /* 가운데정렬 */
+}
